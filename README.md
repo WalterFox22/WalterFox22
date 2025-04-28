@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hola , Soy John Walter</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b> Hi , I am John Walter</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 
 
@@ -6,8 +6,22 @@
 
 
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-  ### 🛠 &nbsp;Tech Stack
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+- :school: I am a `Junior` at [Faculty of Technologist Training ESFOT.](https://webhistorico.epn.edu.ec/oferta-academica/grado/ingenieria-tecnologia/carreras-de-grado/tecnologia-superior-en-desarrollo-de-software/) at [National Polytechnic School - EPN](https://webhistorico.epn.edu.ec/).
+- :technologist: Passionate about creating solutions through `Software`.
+- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY CV](https://drive.google.com/file/d/1-uVsRAZlFo6OXhvy2Allso_UdHlQSfSx/view?usp=sharing).
+- :boom: You can visit [MY WEBSITE](https://cutt.ly/Pendiente).
+<br>
+
+
+
+  ## 🛠 &nbsp;Tech Stack:
+  
 
   ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -24,7 +38,8 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<br>
+
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/WalterFox22">
